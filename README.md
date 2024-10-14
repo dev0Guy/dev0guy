@@ -3,9 +3,9 @@
 &nbsp;Language: 
 <p align="left">
   
-<img align="center" src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" alt="gautamkrishnar" height="40" width="40" />
-<img align="center" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="gautamkrishnar" height="40" width="40" />
-
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" height="40" width="40" />
+<img align="center" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang" height="40" width="40" />
+<img align="center" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="python" height="40" width="40" />
 
 
 🔗 &nbsp;**Connect with me**
