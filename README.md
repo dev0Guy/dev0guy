@@ -1,7 +1,10 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Language: 
+
+&nbsp;Language: 
+<p align="left">
+  
 <img align="center" src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" alt="gautamkrishnar" height="40" width="40" />
-<a href="https://linkedin.com/in/guy-arieli-4127b8198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<img align="center" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="gautamkrishnar" height="40" width="40" />
 
 
 
