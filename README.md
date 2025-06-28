@@ -9,6 +9,7 @@
 <p align="left">
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="40" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" height="40" width="40" />
 <img align="center" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="rust" height="40" width="40" />
 <img align="center" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang" height="40" width="40" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" height="40" width="40" />
