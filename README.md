@@ -8,7 +8,7 @@
 &nbsp;**Language:**
 <p align="left">
   
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" height="40" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" height="30" width="30" />
 <img align="center" src="https://cdn.creazilla.com/icons/3257165/file-type-zig-icon-sm.png" alt="zig" height="40" width="40" />
 <img align="center" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="rust" height="40" width="40" />
 <img align="center" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang" height="40" width="40" />
