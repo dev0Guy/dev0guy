@@ -62,8 +62,6 @@ I’m currently working on **Low level Systems**
   </div>
   -->
 
-
-
 ###
 
 <div align="center">
@@ -84,6 +82,15 @@ I’m currently working on **Low level Systems**
   </tr>
 </table>
 
+
+
+### 📚 Books & Resources
+<p align="center">
+<img align="center" src="https://m.media-amazon.com/images/I/61GNpAHFttL._AC_UF1000,1000_QL80_.jpg" alt="golang" height="60" width="50" />
+<img align="center" src="https://m.media-amazon.com/images/I/81Qkk87cTjS._AC_UF1000,1000_QL80_.jpg" alt="scala" height="60" width="50" />
+<img align="center" src="https://m.media-amazon.com/images/I/81faPYg2QCS._AC_UF1000,1000_QL80_.jpg" alt="python" height="60" width="50" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJG6c23QeEw7Y3Ok1mYKggrNX45tZoWrmjZg&s" alt="data" height="60" width="50" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
