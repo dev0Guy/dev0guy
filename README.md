@@ -90,6 +90,8 @@ I’m currently working on **Low level Systems**
 <img align="center" src="https://m.media-amazon.com/images/I/81Qkk87cTjS._AC_UF1000,1000_QL80_.jpg" alt="scala" height="60" width="50" />
 <img align="center" src="https://m.media-amazon.com/images/I/81faPYg2QCS._AC_UF1000,1000_QL80_.jpg" alt="python" height="60" width="50" />
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJG6c23QeEw7Y3Ok1mYKggrNX45tZoWrmjZg&s" alt="data" height="60" width="50" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yHOtm-qR6UegVhcql-0FLuuQpoCQUcUFkA&s" alt="java-microservices" height="60" width="50" />
+<img align="center" src="https://images.manning.com/278/348/resize/book/6/f8892a5-1093-4d6d-8d63-539ee64d7c15/Gustedt-HI.png" alt="modern-c" height="60" width="50" />
 </p>
 
 
