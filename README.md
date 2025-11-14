@@ -17,7 +17,7 @@ I’m currently working on **Low level Systems**
 <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23D34444" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="40" height="40"/>
-<img src="https://images.seeklogo.com/logo-png/15/2/java-logo-png_seeklogo-158094.png" width="40" height="40"/>
+<img src="https://toppng.com/uploads/preview/java-eps-vector-logo-download-free-11574097023vsqnftopfe.png" width="40" height="40"/>
 
 </div>
 
