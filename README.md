@@ -17,8 +17,7 @@ I’m currently working on **Low level Systems**
 <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23D34444" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="40" height="40"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/709/905/png-clipart-openjdk-java-virtual-machine-android-oracle-corporation-android-leaf-puppet-thumbnail.png" width="40" height="40"/>
 
 
 </div>
