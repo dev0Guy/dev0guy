@@ -69,8 +69,10 @@ I’m currently working on **Low level Systems**
 <!-- # 📊 GitHub Stats: -->
 
 <table>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dev0Guy&theme=dark)](https://git.io/streak-stats)
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev0guy&theme=github_dark&hide_border=true" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev0guy&theme=github_dark&hide_border=true" />
 <br/>
   <tr>
     <td>
@@ -80,7 +82,7 @@ I’m currently working on **Low level Systems**
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0guy&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
