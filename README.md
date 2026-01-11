@@ -70,8 +70,8 @@ I’m currently working on **Low level Systems**
 
 <table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev0Guy&theme=dark)](https://git.io/streak-stats)
-  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dev0Guy&theme=black-ice&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev0guy&theme=github_dark&hide_border=true" />
 <br/>
   <tr>
